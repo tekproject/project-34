@@ -1,0 +1,16 @@
+BACKEND PYTHON DJANGO REST Framework
+
+Steps:
+    1. Install Python with the version present in runtime.txt
+
+    2. Create virtual env for installing library
+        python -m venv venv
+
+    3. Activate the virtual env
+        venv\Scripts\activate.bat
+
+    4. Install the Library from requirements.txt
+        pip install -r requirements.txt
+
+    5. Start the server
+        py manage.py runserver
