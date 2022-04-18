@@ -1,2 +1,2 @@
 # project-34
-Virtual AI Mouse (Backend and Front: Django, AI Mouse: Python)
+Virtual AI Mouse (Backend: Django; Frontend:ReactJS and Tensorflow)
